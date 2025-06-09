@@ -1,5 +1,4 @@
 streamlit
 phi
 google-generativeai
-openai-agents
 python-dotenv
